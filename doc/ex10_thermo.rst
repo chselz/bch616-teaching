@@ -157,6 +157,6 @@ Beschreibung des Experiments
    :header: "Reaktion", ":math:`\Delta G_\mathrm{exp}` [kJ/mol]", ":math:`\Delta G_\mathrm{calc}` [kJ/mol]", ":math:`\Delta G_\mathrm{calc}` [Eh]"
    :widths: 30, 30, 30, 30
 
-   :math:`\ce{2 H2 + O2 -> 2 H2O}`, -572.0, , 
-   :math:`\ce{N2 + 3 H2 -> 2 NH3}`, -92.3, , 
-   :math:`\ce{H2O + CO -> H2 + CO2}`, -41.2, , 
+   :math:`\ce{2 H2 + O2 -> 2 H2O}`, -457.14, , 
+   :math:`\ce{N2 + 3 H2 -> 2 NH3}`, -32.9, , 
+   :math:`\ce{H2O + CO -> H2 + CO2}`, -26.62, , 
